@@ -1,0 +1,6 @@
+alias gst="git status"
+alias gco="git checkout"
+alias gb="git branch"
+alias be="bundle exec"
+alias ber="bundle exec rspec"
+alias vim="nvim"

@@ -1,0 +1,4 @@
+Plug 'preservim/nerdtree'
+Plug 'joshdick/onedark.vim'
+Plug 'nicholaides/words-to-avoid.vim'
+Plug 'github/copilot.vim'
