@@ -2,3 +2,7 @@ Plug 'preservim/nerdtree'
 Plug 'joshdick/onedark.vim'
 Plug 'nicholaides/words-to-avoid.vim'
 Plug 'github/copilot.vim'
+Plug 'APZelos/blamer.nvim'
+Plug 'tpope/vim-rails'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'rust-lang/rust.vim'

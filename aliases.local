@@ -4,3 +4,4 @@ alias gb="git branch"
 alias be="bundle exec"
 alias ber="bundle exec rspec"
 alias vim="nvim"
+alias cleanup-branches='git branch | grep -v "main" | xargs git branch -D'
